@@ -33,11 +33,49 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode,autocad,IntelliJ Idea" />
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,javascript" />
+
+</p>
+
+### 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</p>
+
+### ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+### 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</p>
+
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ---
 
