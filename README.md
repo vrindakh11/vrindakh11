@@ -127,13 +127,13 @@
 
 ## 🧠 LeetCode Analytics
 
+## 🧠 LeetCode Analytics
+
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Vrinda_k11
-?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/vrinda_k11?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
