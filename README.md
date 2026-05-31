@@ -1,16 +1,16 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00DBDE&height=230&section=header"/>
+
 # ✨ Hyy, I'm Vrinda Khandelwal 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+%7C+DSA+Learner;Future+Software+Engineer;Learning+%26+Building+Everyday+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student;Java+%7C+DSA+Learner;Future+Software+Engineer;Learning+%26+Building+Everyday+🚀"/>
 
 </div>
 
 ---
 
-
-
-## ❤️ About Me
+# ❤️ About Me
 
 🎓 B.Tech CSE Student  
 
@@ -27,11 +27,9 @@
 
 ⚡ Goal → **Become a top developer**
 
-<br>
-
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 💻 Languages
 
@@ -73,25 +71,25 @@
 
 </p>
 
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-FF006E?style=for-the-badge&logo=autodesk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-00F7FF?style=for-the-badge&logo=oracle&logoColor=black"/>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vrindakh11&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vrindakh11&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=vrindakh11&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=vrindakh11&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📚 Current Focus
+# 📚 Current Focus
 
 ✔ Java Programming  
 
@@ -105,19 +103,19 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<div align="center">
+<div style="display:flex; gap:30px;">
 
 <a href="https://www.linkedin.com/in/vrinda-khandelwal-46a730322/" target="_blank">
 
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img width="55" src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
 <a href="mailto:vrindakhandelwal006@gmail.com">
 
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img width="55" src="https://skillicons.dev/icons?i=gmail"/>
 
 </a>
 
@@ -125,28 +123,27 @@
 
 ---
 
-## 🧠 LeetCode Analytics
-
-## 🧠 LeetCode Analytics
+# 🧠 LeetCode Analytics
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/vrinda_k11?theme=dark&font=Nunito&ext=heatmap" />
-
-</div>
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://leetcard.jacoblin.cool/Vrinda_k11?theme=dark&font=Nunito&ext=heatmap"/>
 
 </div>
 
 ---
 
-## ✨ Dev Quote
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ✨ Dev Quote
 
 > *"Dream big. Start small. Code consistently."*
 
@@ -155,5 +152,7 @@
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:E100FF,100:7F00FF&height=120&section=footer"/>
 
 </div>
