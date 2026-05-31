@@ -8,9 +8,9 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🌸 About Me
+
+## ❤️ About Me
 
 🎓 B.Tech CSE Student  
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode,autocad,IntelliJ Idea" />
 
 </div>
 
