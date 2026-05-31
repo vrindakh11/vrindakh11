@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hey there, I'm Vrinda Khandelwal 👋
+# ✨ Hyy, I'm Vrinda Khandelwal 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+%7C+DSA+Learner;Future+Software+Engineer;Learning+%26+Building+Everyday+🚀"/>
 
