@@ -14,7 +14,7 @@
 
 🎓 B.Tech CSE Student  
 
-💻 Currently learning **Java • DSA • Development**
+💻 Currently learning **Java • DSA • Full-Stack Development**
 
 🚀 Interested in:
 
@@ -25,7 +25,7 @@
 
 📚 Improving skills one day at a time.
 
-⚡ Goal → **Strong Developer + Internship + Growth**
+⚡ Goal → **Become a top developer**
 
 <br>
 
