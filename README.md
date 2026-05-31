@@ -146,7 +146,7 @@
 ---
 
 <div align="center">
-### "Dream big. Start small. Code consistently."
+### "Dream big. Start small. Code consistently."<br>
 ### ⭐ Thanks for visiting my profile!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:E100FF,100:7F00FF&height=120&section=footer"/>
