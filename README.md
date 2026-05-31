@@ -146,9 +146,10 @@
 ---
 <div align="center">
 
-<h1 style="color:#E100FF; text-shadow:0 0 10px #00F7FF,0 0 20px #7F00FF;">
+<h1 style="font-family:Orbitron; color:#00F7FF;
+text-shadow:0 0 8px #00F7FF, 0 0 18px #7F00FF, 0 0 28px #E100FF;">
 
-✨ "Dream big. Start small. Code consistently." ✨
+✦ "Dream big. Start small. Code consistently." ✦
 
 </h1>
 
