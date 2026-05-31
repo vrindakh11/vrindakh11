@@ -89,25 +89,6 @@
 
 </div>
 
----
-
-## 📈 Languages
-
-<div align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindakh11&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vrindakh11&theme=discord&no-frame=true&margin-w=12"/>
-
-</div>
 
 ---
 
@@ -129,12 +110,16 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/vrinda-khandelwal-46a730322/" target="_blank">
+
 <img src="https://skillicons.dev/icons?i=linkedin" />
+
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vrindakhandelwal006@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail" />
+
 </a>
 
 </div>
