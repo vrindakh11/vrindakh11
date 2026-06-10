@@ -66,15 +66,14 @@
 ### 🧰 Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 <img src="https://img.shields.io/badge/AutoCAD-FF006E?style=for-the-badge&logo=autodesk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Oracle-00F7FF?style=for-the-badge&logo=oracle&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
 ---
 
 # 📊 GitHub Analytics
